@@ -1,0 +1,43 @@
+
+.container-fluid {
+    background-color: rgb(209, 32, 32);
+    color: white;
+    text-align: center;
+
+}
+
+.container-fluid-one {
+    color: black;
+    text-align: center;
+
+}
+
+.container-fluid-two {
+    background-color: rgb(209, 32, 32);
+    text-align: center;
+
+}
+.container-fluid-picture {
+   
+    text-align: center;
+
+}
+
+.box {
+    height: 500px;
+   
+}
+
+.navbar-color {
+    background: #000000;
+}
+
+.box-one{
+    background-color: whitesmoke;
+    padding: 30px;
+}
+
+.text-box{
+    text-align: left;
+    border-radius: 20px;
+}
